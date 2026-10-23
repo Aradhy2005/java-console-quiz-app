@@ -69,7 +69,7 @@ javac -version
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/java-console-quiz-app.git
+git clone https://github.com/aradhy2005/java-console-quiz-app.git
 ```
 
 **2. Navigate to the project directory**
